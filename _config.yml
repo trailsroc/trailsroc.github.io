@@ -1,0 +1,5 @@
+name: "#TrailsRoc"
+description: "Rochester, New York's Trail Running Club"
+feedurl: https://trailsroc.org/feed/
+permalink: pretty
+exclude: [_scratch]
