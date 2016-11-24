@@ -2,7 +2,7 @@
     "bundles": {
         "iOS-1": {
             "build": 131,
-            "url": null
+            "url": "https://trailsroc.github.io/data/mobile/iOS-131.zip"
         }
     }
 }
