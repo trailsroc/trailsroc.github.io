@@ -1,8 +1,26 @@
 {
     "bundles": {
         "iOS-1": {
-            "build": 131,
-            "url": "https://trailsroc.github.io/data/mobile/iOS-131.zip"
+            "build": 140,
+            "url": "https://trailsroc.github.io/data/mobile/iOS-140.zip"
+        },
+        "iOS-dev": {
+            "build": 140,
+            "url": "https://trailsroc.github.io/data/mobile/iOS-140.zip"
         }
-    }
+    },
+    "newsfeed": [
+        {
+            "seqnum": 2,
+            "date": "2016-12-04",
+            "clients": ["iOS-1", "iOS-dev"],
+            "text": "New map data: Auburn Trail (Victor portions) and Lehigh Valley Black Diamond Trail, including connections to the Seneca Trail. are now included. Thanks to Victor Hiking Trails (www.victorhikingtrails.org) for their contributions. We're working on adding more Victor and Pittsford area trail maps."
+        },
+        {
+            "seqnum": 1,
+            "date": "2016-12-04",
+            "clients": ["iOS-1", "iOS-dev"],
+            "text": "The #TrailsRoc app will now automatically download new map data and news alerts."
+        }
+    ]
 }
