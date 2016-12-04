@@ -11,12 +11,6 @@
     },
     "newsfeed": [
         {
-            "seqnum": 3,
-            "date": "2016-12-04",
-            "clients": ["iOS-dev"],
-            "text": "test fetching new news"
-        },
-        {
             "seqnum": 2,
             "date": "2016-12-04",
             "clients": ["iOS-1", "iOS-dev"],
