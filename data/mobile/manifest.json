@@ -1,15 +1,21 @@
 {
     "bundles": {
         "iOS-1": {
-            "build": 140,
-            "url": "https://trailsroc.github.io/data/mobile/iOS-140.zip"
+            "build": 141,
+            "url": "https://trailsroc.github.io/data/mobile/iOS-141.zip"
         },
         "iOS-dev": {
-            "build": 140,
-            "url": "https://trailsroc.github.io/data/mobile/iOS-140.zip"
+            "build": 141,
+            "url": "https://trailsroc.github.io/data/mobile/iOS-141.zip"
         }
     },
     "newsfeed": [
+        {
+            "seqnum": 3,
+            "date": "2016-12-16",
+            "clients": ["iOS-1", "iOS-dev"],
+            "text": "New map data: Cobbs Hill Park and Washington Grove."
+        },
         {
             "seqnum": 2,
             "date": "2016-12-09",
