@@ -1,15 +1,21 @@
 {
     "bundles": {
         "iOS-1": {
-            "build": 141,
-            "url": "https://trailsroc.github.io/data/mobile/iOS-141.zip"
+            "build": 142,
+            "url": "https://trailsroc.github.io/data/mobile/iOS-142.zip"
         },
         "iOS-dev": {
-            "build": 141,
-            "url": "https://trailsroc.github.io/data/mobile/iOS-141.zip"
+            "build": 142,
+            "url": "https://trailsroc.github.io/data/mobile/iOS-142.zip"
         }
     },
     "newsfeed": [
+        {
+            "seqnum": 4,
+            "date": "2017-01-15",
+            "clients": ["iOS-1", "iOS-dev"],
+            "text": "New map data: is your favorite singletrack iced over? Explore 100 miles of regional canal and rail trails, with the addition of the Erie Canal, Genesee Valley Greenway, and Genesee Riverway trails."
+        },
         {
             "seqnum": 3,
             "date": "2016-12-16",
