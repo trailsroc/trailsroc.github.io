@@ -11,6 +11,12 @@
     },
     "newsfeed": [
         {
+            "seqnum": 5,
+            "date": "2017-04-07",
+            "clients": ["iOS-1", "iOS-dev"],
+            "text": "Ellison Park is closed today due to flooding. Stay safe, and as always during the spring season, be mindful of high water and muddy trail conditions."
+        },
+        {
             "seqnum": 4,
             "date": "2017-01-15",
             "clients": ["iOS-1", "iOS-dev"],
