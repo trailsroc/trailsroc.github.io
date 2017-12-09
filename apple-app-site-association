@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "906444281.com.esker-apps.TrailsRoc",
+                "paths": [ "/maps/*" ]
+            }
+        ]
+    }
+}
